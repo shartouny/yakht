@@ -1,7 +1,6 @@
 <?php
 $header = 'sticky-top';
 include 'includes/header.php';
-echo phpinfo()
 ?>
 <!-- header content start  -->
 <div id="header-banner">
@@ -25,7 +24,7 @@ echo phpinfo()
 <!-- header content end  -->
 <!-- page content start  -->
 <!-- about section start  -->
-    <section id="content-section" class="bg-light-gray pt-5">
+    <section id="about-content-section" class="bg-light-gray pt-5">
         <div class="container position-relative">
             <h1>About Yachtvision</h1>
             <div class="row mt-lg-4">

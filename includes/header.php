@@ -115,7 +115,7 @@
                                         <a class="nav-link " href="news.php">news</a>
                                     </li>
                                     <li class="nav-item d-block d-sm-none">
-                                        <a href="#" class="nav-link">
+                                        <a href="contact.php" class="nav-link">
                                             Contact us
                                         </a>
                                     </li>
