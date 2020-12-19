@@ -578,6 +578,16 @@ footer h6 {
     font-size: 25px;
 }
 
+#contact-sec #contact-info-table tr td:first-child {
+    width: 25%;
+    font-weight: bold;
+}
+
+#contact-sec #contact-info-table tr td {
+    vertical-align: top;
+    text-transform: capitalize;
+}
+
 
 /* media queries  */
 

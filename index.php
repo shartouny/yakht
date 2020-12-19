@@ -2,7 +2,6 @@
 $header = 'fixed-top';
 include 'includes/header.php'; 
 ?>
-
     <!-- header content start  -->
     <div id="headerslider" class="carousel slide header-slider" data-ride="carousel">
         <ol class="carousel-indicators">
