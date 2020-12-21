@@ -181,10 +181,7 @@ p {
 
 #our-brand .brand p {
     font-size: 17px;
-}
-
-.brand img {
-    width: 100%;
+    color: #000000;
 }
 
 .brands {
@@ -210,7 +207,7 @@ p {
 .brand a {
     text-transform: capitalize;
     color: #152655;
-    font-weight: 600;
+    font-weight: bold;
 }
 
 .bg-product-img {
